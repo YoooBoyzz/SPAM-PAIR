@@ -87,3 +87,7 @@ Note: If there's a file named auth, delete it first before running the script:
 rm -r auth
 ```
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
