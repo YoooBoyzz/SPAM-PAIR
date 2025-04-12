@@ -34,7 +34,7 @@ If these commands return version numbers (e.g. v20.x.x and 9.x.x), you're good t
 
 If not, please install Node.js and NPM first:
 
-Node.js official site
+Node.js [official site](https://nodejs.org).
 
 ## 🚀 Installation
 Termux (Android)
