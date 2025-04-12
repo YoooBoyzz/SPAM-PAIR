@@ -3,9 +3,9 @@
 
 ![Banner](banner.png)
 
-SPAM-PAIR is a simple Node.js-based tool used to send spam WhatsApp pairing codes to target devices. This tool is intended for educational and light prank purposes only. Please use it responsibly and ethically.
-
 ##
+
+SPAM-PAIR is a simple Node.js-based tool used to send spam WhatsApp pairing codes to target devices. This tool is intended for educational and light prank purposes only. Please use it responsibly and ethically.
 
 ## ⚠️ Disclaimer
 This tool is for educational and experimental purposes only.
