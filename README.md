@@ -41,7 +41,7 @@ Termux (Android)
 ```bash
 apt update && apt upgrade -y
 apt install nodejs git -y
-git clone https://github.com/YoooBoyzz/SPAM-PAIR
+git clone https://github.com/YoooBoyzz/SPAM-PAIR.git
 cd SPAM-PAIR
 npm install
 ```
@@ -50,7 +50,7 @@ Linux (Debian/Ubuntu)
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install nodejs git -y
-git clone https://github.com/YoooBoyzz/SPAM-PAIR
+git clone https://github.com/YoooBoyzz/SPAM-PAIR.git
 cd SPAM-PAIR
 npm install
 ```
