@@ -9,7 +9,7 @@ SPAM-PAIR is a simple Node.js-based tool used to send spam WhatsApp pairing code
 This tool is for educational and experimental purposes only.
 Misusing it for illegal activities or invading someone's privacy is strictly prohibited and may violate laws. The developer is not responsible for any misuse of this tool.
 
-### 🛠️ Features
+## 🛠️ Features
 Automatically sends spam WhatsApp pairing codes.
 
 Works on multiple platforms: Termux (Android), Linux, and Windows.
