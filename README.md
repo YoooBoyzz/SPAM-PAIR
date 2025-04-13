@@ -39,7 +39,7 @@ If not, please install Node.js and NPM first:
 Node.js [official site](https://nodejs.org).
 
 ## 🚀 Installation
-Termux (Android)
+### Termux (Android)
 ```bash
 apt update && apt upgrade -y
 apt install nodejs git -y
@@ -48,7 +48,7 @@ cd SPAM-PAIR
 npm install
 ```
 
-Linux (Debian/Ubuntu)
+### Linux (Debian/Ubuntu)
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install nodejs git -y
@@ -58,10 +58,10 @@ npm install
 ```
 
 
-Windows (Git Bash)
+# Windows (Git Bash)
 Make sure you have Node.js and Git installed.
 
-Open Git Bash and run:
+### Open Git Bash and run:
 
 ```bash
 git clone https://github.com/YoooBoyzz/SPAM-PAIR
