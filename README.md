@@ -71,13 +71,13 @@ npm install
 
 
 ## ▶️ Usage
-Navigate to the project directory:
+### Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd SPAM-PAIR
+```
 
-Run the script :
+### Run the script :
 ```bash
 npm start
 ```
